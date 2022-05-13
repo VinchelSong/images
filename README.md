@@ -1,2 +1,2 @@
 # images
-personal image server(image-bed)
+personal image server(picBed)
